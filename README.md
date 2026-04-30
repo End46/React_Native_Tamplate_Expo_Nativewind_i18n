@@ -1,4 +1,4 @@
-# Pasarela: Expo + NativeWind
+# Expo + NativeWind
 
 Plantilla base de React Native con Expo Router y NativeWind lista para trabajar con estilos por clases, modo claro/oscuro y una paleta centralizada desde `constants/palette.js`.
 
