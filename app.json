@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Pasarela",
-    "slug": "Pasarela",
+    "name": "TemplateName",
+    "slug": "TemplateSlug",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "pasarela",
+    "scheme": "templatescheme",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
